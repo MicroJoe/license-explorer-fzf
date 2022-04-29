@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2022 Agathe Porte <microjoe@microjoe.org>
+#
+# SPDX-License-Identifier: MIT
+
+[submodule "license-list-data"]
+	path = license-list-data
+	url = https://github.com/spdx/license-list-data.git
