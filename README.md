@@ -8,8 +8,14 @@ SPDX-License-Identifier: MIT
 
 Using FZF to explore and select software licenses.
 
-This is a toy project to explore and select software licenses using the [fzf](https://github.com/junegunn/fzf) tool.
-It uses the [SPDX license list data](https://github.com/spdx/license-list-data) repository as a submodule.
+![Screen record showing how FZF can be used to explore licenses](docs/demo.webp)
+
+This is a toy project to explore and select software licenses using:
+
+- [fzf tool](https://github.com/junegunn/fzf);
+- [jq tool](https://github.com/stedolan/jq);
+- [SPDX license list data](https://github.com/spdx/license-list-data) (submodule); *and*
+- POSIX shell.
 
 ## License
 
